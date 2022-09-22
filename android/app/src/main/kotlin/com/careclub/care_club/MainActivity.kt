@@ -1,0 +1,6 @@
+package com.careclub.care_club
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
